@@ -37,12 +37,6 @@
 <!-- 5. НОВЫЙ БЛОК: СТАТИСТИКА И АКТИВНОСТЬ -->
 <h2 align="center">📊 Моя активность</h2>
 <p align="center">
-  <!-- Вставь сюда свой код из WakaTime -->
-  <a href="https://wakatime.com/@doxxile">
-    <img src="https://wakatime.com/badge/user/9e8b1e4a-1e66-41f2-8926-2581699f7d24.svg" alt="Время кодинга" />
-  </a>
-</p>
-<p align="center">
   <!-- Это классическая статистика, она будет заполняться по мере коммитов -->
   <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика doxxile" />
   <br><br>
@@ -58,7 +52,7 @@
 <!-- 6. КОНТАКТЫ -->
 <h2 align="center">🔗 На связи:</h2>
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-doxxile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/doxile_a" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-doxile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 <!-- 7. ФУТЕР -->
