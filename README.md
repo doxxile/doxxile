@@ -1,8 +1,8 @@
 <!-- 
 ####################################################################################
-#  >> RENDER_ENGINE: MINIMALIST_CORE_v2
-#  >> STYLE_OVERRIDE: DOXXILE_APEX
-#  >> STATUS: DEPLOYED
+#  >> RENDER_ENGINE: GRID_LOCK_v3
+#  >> STYLE_OVERRIDE: DOXXILE_PERFECTION
+#  >> STATUS: ALIGNED & DEPLOYED
 ####################################################################################
 -->
 
@@ -10,31 +10,35 @@
 
 <!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
 <a href="https://github.com/doxxile">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Привет,+я+doxxile;Python+Developer+%26+Linux+Enthusiast;Автоматизирую+всё,+чтобы+не+работать;Ищу+границы+возможного." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Привет,+я+doxxile;Python+Developer+%26+Linux+Enthusiast;Автоматизирую+всё,+чтобы+не+работать;Ищу+границы+возможного." alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- ГЛАВНЫЙ ИНФО-БЛОК: ОПИСАНИЕ, ЦЕЛЬ, КОНТАКТЫ -->
-<table border="0" cellpadding="15">
+<!-- ГЛАВНЫЙ ИНФО-БЛОК С ЖЕСТКИМИ КОЛОНКАМИ -->
+<table border="0" cellpadding="0" cellspacing="0" width="80%">
   <tr>
-    <td valign="top">
+    <td width="70%" valign="top">
       <p>🐍 <b>4+ года в Python:</b> Создаю быстрые API, умных ботов и надежный бэкенд.</p>
       <p>🐧 <b>Linux — моя стихия:</b> Администрирую серверы, пишу bash-скрипты, виртуозно владею Docker.</p>
       <p>🚀 <b>Миссия:</b> Создавать не просто код, а эффективные и элегантные решения.</p>
     </td>
-    <td valign="top" align="center">
+    <td width="30%" valign="top" align="center">
       <b>Связь:</b>
       <br><br>
       <a href="https://t.me/doxile_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-      <br>
+      <br><br>
       <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     </td>
   </tr>
 </table>
 
+<br>
+
 <!-- РАЗДЕЛИТЕЛЬ -->
-<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="600px">
+<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="80%">
+
+<br>
 
 <!-- БЛОК АРСЕНАЛА -->
 <h3>Мой арсенал</h3>
@@ -47,14 +51,24 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<!-- РАЗДЕЛИТЕЛЬ -->
-<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="600px">
+<br>
 
-<!-- БЛОК СТАТИСТИКИ -->
+<!-- РАЗДЕЛИТЕЛЬ -->
+<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="80%">
+
+<br>
+
+<!-- БЛОК СТАТИСТИКИ, ИСПРАВЛЕННЫЙ ТАБЛИЦЕЙ -->
 <h3>Статистика</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="Статистика GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxxile&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Топ языков" />
-</p>
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="Статистика GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxxile&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Топ языков" />
+    </td>
+  </tr>
+</table>
 
 </div>
