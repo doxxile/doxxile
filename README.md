@@ -1,74 +1,55 @@
-<!-- 
-####################################################################################
-#  >> RENDER_ENGINE: GRID_LOCK_v3
-#  >> STYLE_OVERRIDE: DOXXILE_PERFECTION
-#  >> STATUS: ALIGNED & DEPLOYED
-####################################################################################
--->
-
-<div align="center">
-
-<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
-<a href="https://github.com/doxxile">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Привет,+я+doxxile;Python+Developer+%26+Linux+Enthusiast;Автоматизирую+всё,+чтобы+не+работать;Ищу+границы+возможного." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<!-- ГЛАВНЫЙ ИНФО-БЛОК С ЖЕСТКИМИ КОЛОНКАМИ -->
-<table border="0" cellpadding="0" cellspacing="0" width="80%">
-  <tr>
-    <td width="70%" valign="top">
-      <p>🐍 <b>4+ года в Python:</b> Создаю быстрые API, умных ботов и надежный бэкенд.</p>
-      <p>🐧 <b>Linux — моя стихия:</b> Администрирую серверы, пишу bash-скрипты, виртуозно владею Docker.</p>
-      <p>🚀 <b>Миссия:</b> Создавать не просто код, а эффективные и элегантные решения.</p>
-    </td>
-    <td width="30%" valign="top" align="center">
-      <b>Связь:</b>
-      <br><br>
-      <a href="https://t.me/doxile_a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-      <br><br>
-      <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- РАЗДЕЛИТЕЛЬ -->
-<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="80%">
-
-<br>
-
-<!-- БЛОК АРСЕНАЛА -->
-<h3>Мой арсенал</h3>
-<p>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
-
-<br>
-
-<!-- РАЗДЕЛИТЕЛЬ -->
-<img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/br_divider.gif" width="80%">
-
-<br>
-
-<!-- БЛОК СТАТИСТИКИ, ИСПРАВЛЕННЫЙ ТАБЛИЦЕЙ -->
-<h3>Статистика</h3>
-<table border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="Статистика GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxxile&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Топ языков" />
-    </td>
-  </tr>
-</table>
+вот, его сделай лучше, добавь связь в один блок где и описание, типа цель и т.д
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/doxxile">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=33FF33&center=true&vCenter=true&width=500&lines=Привет,+я+doxile;Python+Developer;Linux+Guru;Автоматизирую+всё+подряд;Ищу+границы+возможного." alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 3. КРАТКОЕ И СТИЛЬНОЕ ИНТРО -->
+
+
+[!NOTE]
+🐍 4+ года в Python: От бэкенда на Django/FastAPI до асинхронных Telegram-ботов и парсеров.
+🐧 Linux — моя стихия: Администрирую серверы, пишу bash-скрипты, виртуозно владею Docker.
+🚀 Цель: Создавать не просто код, а эффективные и элегантные решения.
+
+<br>
+
+<!-- 4. СТЕК ТЕХНОЛОГИЙ С КРУТЫМИ ИКОНКАМИ -->
+
+<h2 align="center">🛠️ Мой арсенал:</h2>
+<p align="center">
+  <!-- ... тут твой стек, оставь как есть ... -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
+
+<!-- 5. НОВЫЙ БЛОК: СТАТИСТИКА И АКТИВНОСТЬ -->
+
+<h2 align="center">📊 Моя активность</h2>
+</p>
+<p align="center">
+  <!-- Это классическая статистика, она будет заполняться по мере коммитов -->
+  <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика doxxile" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doxxile&layout=compact&locale=ru&theme=tokyonight" alt="Топ языков doxxile" />
+</p>
+
+<!-- 6. КОНТАКТЫ -->
+
+<h2 align="center">🔗 На связи:</h2>
+<p align="center">
+  <a href="https://t.me/doxile_a" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-doxile-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
+<!-- 7. ФУТЕР -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/footer.gif" width="100%">
+</p>
