@@ -25,7 +25,7 @@
               </td>
               <td width="100px">
                 <!-- СЮДА ВСТАВЬ ССЫЛКУ НА СВОЮ АВАТАРКУ -->
-                <img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/avatar.png" alt="avatar"/>
+                <img src="https://avatars.githubusercontent.com/u/226453063?v=4" alt="avatar"/>
               </td>
             </tr>
           </table>
