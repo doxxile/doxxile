@@ -13,9 +13,9 @@
 
 <!-- 3. КРАТКОЕ И СТИЛЬНОЕ ИНТРО -->
 > [!NOTE]
-> 🐍 **4+ года в Python:** От бэкенда на Django/FastAPI до асинхронных Telegram-ботов и парсеров.
-> 🐧 **Linux — моя стихия:** Администрирую серверы, пишу bash-скрипты, виртуозно владею Docker.
-> 🚀 **Цель:** Создавать не просто код, а эффективные и элегантные решения.
+> 🐍 4+ года в Python: От бэкенда на Django/FastAPI до асинхронных Telegram-ботов и парсеров.
+> 🐧 Linux: Администрирую серверы, пишу bash-скрипты, владею Docker.
+> 🚀 Цель: Создавать не просто код, а эффективные и элегантные решения.
 
 <br>
 
@@ -41,10 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=doxxile&show_icons=true&locale=ru&theme=tokyonight&count_private=true" alt="Статистика doxxile" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doxxile&layout=compact&locale=ru&theme=tokyonight" alt="Топ языков doxxile" />
-</p>
-<p align="center">
-  <!-- А это Skyline! Замени ссылку на свою картинку -->
-  <img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/skyline.png" alt="GitHub Skyline">
 </p>
 
 ---
