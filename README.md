@@ -1,23 +1,7 @@
 <!-- 
-##################################################################################
-#  РАЗРЫВНОЙ README ДЛЯ GITHUB-ПРОФИЛЯ                                          #
-#  Адаптировано для doxxile                                                      #
-#  Задача: Сделать "пиздец красиво"                                              #
-##################################################################################
--->
-
-<!-- 1. АНИМИРОВАННЫЙ БАННЕР -->
-<!-- Найди крутую гифку в стиле киберпанк/код/матрица и залей в свой репозиторий -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/doxxile/doxxile/main/assets/header.gif" width="100%">
 </p>
-
-<!-- 2. АНИМИРОВАННЫЙ ТЕКСТ С ЭФФЕКТОМ ПЕЧАТИ -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block;">HACK THE PLANET</h1></summary>
-  </ul>
-</div>
 
 <p align="center">
   <a href="https://github.com/doxxile">
